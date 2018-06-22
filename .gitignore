@@ -1,0 +1,11 @@
+._*
+.DS_Store
+assets/dist
+bower_components
+node_modules
+/vendor
+.editorconfig
+npm-debug.log
+yarn.lock
+composer.lock
+package-lock.json
