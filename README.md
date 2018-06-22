@@ -15,8 +15,8 @@ Marc Mentha 	@Acconitum 		<marc.mentha@protonmail.com>
 
 ## Contributors
 
-Marc Mentha 	@Acconitum 		<marc.mentha@protonmail.com>
-Patrick Piguet	@PGtheG			<patrick.piguet@gmx.ch>
+* Marc Mentha 	@Acconitum 		<marc.mentha@protonmail.com>
+* Patrick Piguet	@PGtheG			<patrick.piguet@gmx.ch>
 
 ## Installation
 
