@@ -46,8 +46,8 @@ npm install
 ```
 * Add following lines to your config.php inside site directory
 ```
-$config->appendTemplateFile = 'includes/_prepend.php'; 
-$config->prependTemplateFile = 'includes/_append.php'; 
+$config->appendTemplateFile = 'includes/_append.php'; 
+$config->prependTemplateFile = 'includes/_prepend.php'; 
 ```
 * Rename every appearance of processwiretemplate to yourprojectname in following files:
 ** package.json
